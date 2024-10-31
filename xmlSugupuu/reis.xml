@@ -6,9 +6,10 @@
 		</kohad>
 		<Alguskuupaev>2023-10-12</Alguskuupaev>
 		<Loppkuupaev>2024-06-06</Loppkuupaev>
-		<Hind>€968,56</Hind>
+		<Hind>968,56</Hind>
 		<Kohad>147</Kohad>
 		<Aegalgus>1:19</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Satna Airport">
 		<kohad>
@@ -17,9 +18,11 @@
 		</kohad>
 		<Alguskuupaev>2024-07-11</Alguskuupaev>
 		<Loppkuupaev>2024-07-07</Loppkuupaev>
-		<Hind>€39,72</Hind>
+		<Hind>39,72</Hind>
 		<Kohad>44</Kohad>
 		<Aegalgus>0:12</Aegalgus>
+		<Transport>lennureis</Transport>
+		
 	</Reis>
 	<Reis reisinimi="Penn Valley Airport">
 		<kohad>
@@ -28,9 +31,10 @@
 		</kohad>
 		<Alguskuupaev>2024-03-14</Alguskuupaev>
 		<Loppkuupaev>2024-03-24</Loppkuupaev>
-		<Hind>€731,53</Hind>
+		<Hind>731,53</Hind>
 		<Kohad>175</Kohad>
 		<Aegalgus>2:24</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Grand Coulee Dam Airport">
 		<kohad>
@@ -39,9 +43,10 @@
 		</kohad>
 		<Alguskuupaev>2024-05-09</Alguskuupaev>
 		<Loppkuupaev>2024-05-11</Loppkuupaev>
-		<Hind>€581,12</Hind>
+		<Hind>581,12</Hind>
 		<Kohad>270</Kohad>
 		<Aegalgus>2:24</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Taliabu Island Airport">
 		<kohad>
@@ -50,9 +55,10 @@
 		</kohad>
 		<Alguskuupaev>2023-12-21</Alguskuupaev>
 		<Loppkuupaev>2023-09-24</Loppkuupaev>
-		<Hind>€494,61</Hind>
+		<Hind>494,61</Hind>
 		<Kohad>227</Kohad>
 		<Aegalgus>1:02</Aegalgus>
+		<Transport>autoreis</Transport>
 	</Reis>
 	<Reis reisinimi="Forest City Municipal Airport">
 		<kohad>
@@ -61,9 +67,10 @@
 		</kohad>
 		<Alguskuupaev>2024-03-25</Alguskuupaev>
 		<Loppkuupaev>2023-12-25</Loppkuupaev>
-		<Hind>€196,90</Hind>
+		<Hind>196,90</Hind>
 		<Kohad>164</Kohad>
 		<Aegalgus>0:27</Aegalgus>
+		<Transport>rongreis</Transport>
 	</Reis>
 	<Reis reisinimi="Marawaka Airport">
 		<kohad>
@@ -72,9 +79,10 @@
 		</kohad>
 		<Alguskuupaev>2024-03-20</Alguskuupaev>
 		<Loppkuupaev>2024-08-19</Loppkuupaev>
-		<Hind>€635,60</Hind>
+		<Hind>635,60</Hind>
 		<Kohad>200</Kohad>
 		<Aegalgus>14:28</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Eunice Airport">
 		<kohad>
@@ -83,9 +91,10 @@
 		</kohad>
 		<Alguskuupaev>2023-10-02</Alguskuupaev>
 		<Loppkuupaev>2023-12-16</Loppkuupaev>
-		<Hind>€86,73</Hind>
+		<Hind>86,73</Hind>
 		<Kohad>109</Kohad>
 		<Aegalgus>1:54</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Akwa Ibom International Airport">
 		<kohad>
@@ -94,9 +103,10 @@
 		</kohad>
 		<Alguskuupaev>2024-08-01</Alguskuupaev>
 		<Loppkuupaev>2024-01-20</Loppkuupaev>
-		<Hind>€25,60</Hind>
+		<Hind>25,60</Hind>
 		<Kohad>178</Kohad>
 		<Aegalgus>14:24</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Burg Feuerstein Airport">
 		<kohad>
@@ -105,9 +115,10 @@
 		</kohad>
 		<Alguskuupaev>2023-09-24</Alguskuupaev>
 		<Loppkuupaev>2024-01-19</Loppkuupaev>
-		<Hind>€906,91</Hind>
+		<Hind>906,91</Hind>
 		<Kohad>238</Kohad>
 		<Aegalgus>7:33</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Waterfall Seaplane Base">
 		<kohad>
@@ -116,9 +127,10 @@
 		</kohad>
 		<Alguskuupaev>2023-09-16</Alguskuupaev>
 		<Loppkuupaev>2024-01-26</Loppkuupaev>
-		<Hind>€127,46</Hind>
+		<Hind>127,46</Hind>
 		<Kohad>97</Kohad>
 		<Aegalgus>16:32</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Rampart Airport">
 		<kohad>
@@ -127,9 +139,10 @@
 		</kohad>
 		<Alguskuupaev>2023-12-31</Alguskuupaev>
 		<Loppkuupaev>2024-08-20</Loppkuupaev>
-		<Hind>€637,39</Hind>
+		<Hind>637,39</Hind>
 		<Kohad>247</Kohad>
 		<Aegalgus>6:18</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Maubeuge-Élesmes Airport">
 		<kohad>
@@ -138,9 +151,10 @@
 		</kohad>
 		<Alguskuupaev>2023-11-20</Alguskuupaev>
 		<Loppkuupaev>2024-01-26</Loppkuupaev>
-		<Hind>€235,95</Hind>
+		<Hind>235,95</Hind>
 		<Kohad>121</Kohad>
 		<Aegalgus>23:53</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Dubois Municipal Airport">
 		<kohad>
@@ -149,9 +163,10 @@
 		</kohad>
 		<Alguskuupaev>2024-02-01</Alguskuupaev>
 		<Loppkuupaev>2023-12-16</Loppkuupaev>
-		<Hind>€253,60</Hind>
+		<Hind>253,60</Hind>
 		<Kohad>69</Kohad>
 		<Aegalgus>11:20</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Giyani Airport">
 		<kohad>
@@ -160,9 +175,10 @@
 		</kohad>
 		<Alguskuupaev>2024-01-27</Alguskuupaev>
 		<Loppkuupaev>2024-02-15</Loppkuupaev>
-		<Hind>€12,28</Hind>
+		<Hind>12,28</Hind>
 		<Kohad>148</Kohad>
 		<Aegalgus>23:35</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Kaikoura Airport">
 		<kohad>
@@ -171,9 +187,10 @@
 		</kohad>
 		<Alguskuupaev>2024-03-01</Alguskuupaev>
 		<Loppkuupaev>2023-12-13</Loppkuupaev>
-		<Hind>€359,10</Hind>
+		<Hind>359,10</Hind>
 		<Kohad>119</Kohad>
 		<Aegalgus>7:49</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Truth Or Consequences Municipal Airport">
 		<kohad>
@@ -182,9 +199,10 @@
 		</kohad>
 		<Alguskuupaev>2024-09-11</Alguskuupaev>
 		<Loppkuupaev>2024-01-20</Loppkuupaev>
-		<Hind>€199,29</Hind>
+		<Hind>199,29</Hind>
 		<Kohad>33</Kohad>
 		<Aegalgus>23:34</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Balcanoona Airport">
 		<kohad>
@@ -193,9 +211,10 @@
 		</kohad>
 		<Alguskuupaev>2024-05-22</Alguskuupaev>
 		<Loppkuupaev>2023-11-14</Loppkuupaev>
-		<Hind>€36,00</Hind>
+		<Hind>36,00</Hind>
 		<Kohad>272</Kohad>
 		<Aegalgus>18:09</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Sepik Plains Airport">
 		<kohad>
@@ -204,9 +223,9 @@
 		</kohad>
 		<Alguskuupaev>2024-03-08</Alguskuupaev>
 		<Loppkuupaev>2024-06-11</Loppkuupaev>
-		<Hind>€466,43</Hind>
+		<Hind>466,43</Hind>
 		<Kohad>166</Kohad>
-		<Aegalgus>12:15</Aegalgus>
+		<Aegalgus>12:15</Aegalgus><Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Monroe Regional Airport">
 		<kohad>
@@ -215,9 +234,10 @@
 		</kohad>
 		<Alguskuupaev>2024-05-01</Alguskuupaev>
 		<Loppkuupaev>2023-12-22</Loppkuupaev>
-		<Hind>€106,33</Hind>
+		<Hind>106,33</Hind>
 		<Kohad>146</Kohad>
 		<Aegalgus>4:24</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Tulum Naval Air Station">
 		<kohad>
@@ -226,9 +246,10 @@
 		</kohad>
 		<Alguskuupaev>2024-05-29</Alguskuupaev>
 		<Loppkuupaev>2024-08-26</Loppkuupaev>
-		<Hind>€804,83</Hind>
+		<Hind>804,83</Hind>
 		<Kohad>232</Kohad>
 		<Aegalgus>9:20</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Pattani Airport">
 		<kohad>
@@ -237,9 +258,10 @@
 		</kohad>
 		<Alguskuupaev>2023-10-19</Alguskuupaev>
 		<Loppkuupaev>2024-05-06</Loppkuupaev>
-		<Hind>€399,76</Hind>
+		<Hind>399,76</Hind>
 		<Kohad>101</Kohad>
 		<Aegalgus>19:53</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Hawkins Field">
 		<kohad>
@@ -248,9 +270,10 @@
 		</kohad>
 		<Alguskuupaev>2024-05-20</Alguskuupaev>
 		<Loppkuupaev>2024-04-30</Loppkuupaev>
-		<Hind>€586,71</Hind>
+		<Hind>586,71</Hind>
 		<Kohad>70</Kohad>
 		<Aegalgus>23:36</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Rizhao Shanzihe Airport">
 		<kohad>
@@ -259,9 +282,10 @@
 		</kohad>
 		<Alguskuupaev>2024-04-16</Alguskuupaev>
 		<Loppkuupaev>2024-01-06</Loppkuupaev>
-		<Hind>€655,95</Hind>
+		<Hind>655,95</Hind>
 		<Kohad>51</Kohad>
 		<Aegalgus>6:19</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Nicaro Airport">
 		<kohad>
@@ -270,9 +294,10 @@
 		</kohad>
 		<Alguskuupaev>2024-04-16</Alguskuupaev>
 		<Loppkuupaev>2024-04-07</Loppkuupaev>
-		<Hind>€109,84</Hind>
+		<Hind>109,84</Hind>
 		<Kohad>138</Kohad>
 		<Aegalgus>3:41</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="General Urquiza Airport">
 		<kohad>
@@ -281,9 +306,10 @@
 		</kohad>
 		<Alguskuupaev>2023-09-20</Alguskuupaev>
 		<Loppkuupaev>2023-11-18</Loppkuupaev>
-		<Hind>€155,44</Hind>
+		<Hind>155,44</Hind>
 		<Kohad>123</Kohad>
 		<Aegalgus>13:13</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Lifou Airport">
 		<kohad>
@@ -292,9 +318,10 @@
 		</kohad>
 		<Alguskuupaev>2024-04-12</Alguskuupaev>
 		<Loppkuupaev>2024-04-22</Loppkuupaev>
-		<Hind>€409,75</Hind>
+		<Hind>409,75</Hind>
 		<Kohad>98</Kohad>
 		<Aegalgus>15:27</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Lancang Jingmai Airport">
 		<kohad>
@@ -303,9 +330,10 @@
 		</kohad>
 		<Alguskuupaev>2024-02-02</Alguskuupaev>
 		<Loppkuupaev>2024-07-30</Loppkuupaev>
-		<Hind>€155,86</Hind>
+		<Hind>155,86</Hind>
 		<Kohad>184</Kohad>
 		<Aegalgus>0:39</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 	<Reis reisinimi="Reykhólar Airport">
 		<kohad>
@@ -314,8 +342,9 @@
 		</kohad>
 		<Alguskuupaev>2024-05-13</Alguskuupaev>
 		<Loppkuupaev>2023-10-20</Loppkuupaev>
-		<Hind>€70,62</Hind>
+		<Hind>70,62</Hind>
 		<Kohad>246</Kohad>
 		<Aegalgus>7:42</Aegalgus>
+		<Transport>lennureis</Transport>
 	</Reis>
 </Reisid>

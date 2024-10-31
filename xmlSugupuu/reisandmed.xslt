@@ -5,13 +5,13 @@
 			<body>
 				<h1>Reiside Ülevaade</h1>
 				<xsl:for-each select="Reisid/Reis">
-					<h2>
-						<xsl:value-of select="Sihtkoht"/>
+					<h2 style="background-color:yellow;">
+						<xsl:value-of select="kohad/Sihtkoht"/>
 					</h2>
 					<ul>
-						<li>
+						<li style="background-color:yellow;">
 							<strong>Lahtekoht:</strong>
-							<xsl:value-of select="Lahtekoht"/>
+							<xsl:value-of select="kohad/Lahtekoht"/>
 						</li>
 						<li>
 							<strong>Alguskuupäev:</strong>
@@ -23,7 +23,14 @@
 						</li>
 						<li>
 							<strong>Hind:</strong>
-							<xsl:value-of select="Hind"/>
+							<xsl:if test="number(translate(Hind, ',', '.')) &gt; 100">
+								<xsl:value-of select="Hind"/>
+							</xsl:if>
+							<xsl:if test="number(translate(Hind, ',', '.')) &lt; 100">
+								<a style="color:red;">
+									<xsl:value-of select="Hind"/>
+								</a>
+							</xsl:if>
 						</li>
 						<li>
 							<strong>Kohad:</strong>
