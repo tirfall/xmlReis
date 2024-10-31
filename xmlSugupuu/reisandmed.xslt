@@ -33,6 +33,14 @@
 							</xsl:if>
 						</li>
 						<li>
+							<strong>Ekskursioonid hind:</strong>
+							<xsl:value-of select="Ekskursioonid"/>
+						</li>
+						<li>
+							<strong>Üld hind:</strong>
+							<xsl:value-of select="Ekskursioonid"/>
+						</li>
+						<li>
 							<strong>Kohad:</strong>
 							<xsl:value-of select="Kohad"/>
 						</li>

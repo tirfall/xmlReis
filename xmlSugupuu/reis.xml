@@ -10,6 +10,7 @@
 		<Kohad>147</Kohad>
 		<Aegalgus>1:19</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>250</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Satna Airport">
 		<kohad>
@@ -22,7 +23,7 @@
 		<Kohad>44</Kohad>
 		<Aegalgus>0:12</Aegalgus>
 		<Transport>lennureis</Transport>
-		
+		<Ekskursioonid>150</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Penn Valley Airport">
 		<kohad>
@@ -35,6 +36,7 @@
 		<Kohad>175</Kohad>
 		<Aegalgus>2:24</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>120</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Grand Coulee Dam Airport">
 		<kohad>
@@ -47,6 +49,7 @@
 		<Kohad>270</Kohad>
 		<Aegalgus>2:24</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>95</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Taliabu Island Airport">
 		<kohad>
@@ -59,6 +62,7 @@
 		<Kohad>227</Kohad>
 		<Aegalgus>1:02</Aegalgus>
 		<Transport>autoreis</Transport>
+		<Ekskursioonid>230</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Forest City Municipal Airport">
 		<kohad>
@@ -71,6 +75,7 @@
 		<Kohad>164</Kohad>
 		<Aegalgus>0:27</Aegalgus>
 		<Transport>rongreis</Transport>
+		<Ekskursioonid>180</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Marawaka Airport">
 		<kohad>
@@ -83,6 +88,7 @@
 		<Kohad>200</Kohad>
 		<Aegalgus>14:28</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>270</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Eunice Airport">
 		<kohad>
@@ -95,6 +101,7 @@
 		<Kohad>109</Kohad>
 		<Aegalgus>1:54</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>50</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Akwa Ibom International Airport">
 		<kohad>
@@ -107,6 +114,7 @@
 		<Kohad>178</Kohad>
 		<Aegalgus>14:24</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>200</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Burg Feuerstein Airport">
 		<kohad>
@@ -119,6 +127,7 @@
 		<Kohad>238</Kohad>
 		<Aegalgus>7:33</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>300</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Waterfall Seaplane Base">
 		<kohad>
@@ -131,6 +140,7 @@
 		<Kohad>97</Kohad>
 		<Aegalgus>16:32</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>15</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Rampart Airport">
 		<kohad>
@@ -143,6 +153,7 @@
 		<Kohad>247</Kohad>
 		<Aegalgus>6:18</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>175</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Maubeuge-Élesmes Airport">
 		<kohad>
@@ -155,6 +166,7 @@
 		<Kohad>121</Kohad>
 		<Aegalgus>23:53</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>180</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Dubois Municipal Airport">
 		<kohad>
@@ -167,6 +179,7 @@
 		<Kohad>69</Kohad>
 		<Aegalgus>11:20</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>150</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Giyani Airport">
 		<kohad>
@@ -179,6 +192,7 @@
 		<Kohad>148</Kohad>
 		<Aegalgus>23:35</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>100</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Kaikoura Airport">
 		<kohad>
@@ -191,6 +205,7 @@
 		<Kohad>119</Kohad>
 		<Aegalgus>7:49</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>75</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Truth Or Consequences Municipal Airport">
 		<kohad>
@@ -203,6 +218,7 @@
 		<Kohad>33</Kohad>
 		<Aegalgus>23:34</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>120</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Balcanoona Airport">
 		<kohad>
@@ -215,6 +231,7 @@
 		<Kohad>272</Kohad>
 		<Aegalgus>18:09</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>150</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Sepik Plains Airport">
 		<kohad>
@@ -225,7 +242,9 @@
 		<Loppkuupaev>2024-06-11</Loppkuupaev>
 		<Hind>466,43</Hind>
 		<Kohad>166</Kohad>
-		<Aegalgus>12:15</Aegalgus><Transport>lennureis</Transport>
+		<Aegalgus>12:15</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>200</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Monroe Regional Airport">
 		<kohad>
@@ -238,6 +257,7 @@
 		<Kohad>146</Kohad>
 		<Aegalgus>4:24</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>90</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Tulum Naval Air Station">
 		<kohad>
@@ -250,6 +270,7 @@
 		<Kohad>232</Kohad>
 		<Aegalgus>9:20</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>300</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Pattani Airport">
 		<kohad>
@@ -262,6 +283,7 @@
 		<Kohad>101</Kohad>
 		<Aegalgus>19:53</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>120</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Hawkins Field">
 		<kohad>
@@ -274,6 +296,7 @@
 		<Kohad>70</Kohad>
 		<Aegalgus>23:36</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>250</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Rizhao Shanzihe Airport">
 		<kohad>
@@ -286,6 +309,7 @@
 		<Kohad>51</Kohad>
 		<Aegalgus>6:19</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>130</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Nicaro Airport">
 		<kohad>
@@ -298,6 +322,7 @@
 		<Kohad>138</Kohad>
 		<Aegalgus>3:41</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>70</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="General Urquiza Airport">
 		<kohad>
@@ -310,6 +335,7 @@
 		<Kohad>123</Kohad>
 		<Aegalgus>13:13</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>90</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Lifou Airport">
 		<kohad>
@@ -322,6 +348,7 @@
 		<Kohad>98</Kohad>
 		<Aegalgus>15:27</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>110</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Lancang Jingmai Airport">
 		<kohad>
@@ -334,6 +361,7 @@
 		<Kohad>184</Kohad>
 		<Aegalgus>0:39</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>130</Ekskursioonid>
 	</Reis>
 	<Reis reisinimi="Reykhólar Airport">
 		<kohad>
@@ -346,5 +374,6 @@
 		<Kohad>246</Kohad>
 		<Aegalgus>7:42</Aegalgus>
 		<Transport>lennureis</Transport>
+		<Ekskursioonid>60</Ekskursioonid>
 	</Reis>
 </Reisid>
