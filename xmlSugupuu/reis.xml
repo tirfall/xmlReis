@@ -1,4 +1,5 @@
-﻿<Reisid>
+﻿
+	<Reisid xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="reis.xsd">
 	<Reis reisinimi="Konarak Airport">
 		<kohad>
 			<Lahtekoht>Zapala Airport</Lahtekoht>
@@ -51,10 +52,10 @@
 		<Transport>lennureis</Transport>
 		<Ekskursioonid>95</Ekskursioonid>
 	</Reis>
-	<Reis reisinimi="Taliabu Island Airport">
+	<Reis reisinimi="Taliabu Island">
 		<kohad>
-			<Lahtekoht>Collie Airport</Lahtekoht>
-			<Sihtkoht>Taliabu Island Airport</Sihtkoht>
+			<Lahtekoht>Collie</Lahtekoht>
+			<Sihtkoht>Taliabu Island</Sihtkoht>
 		</kohad>
 		<Alguskuupaev>2023-12-21</Alguskuupaev>
 		<Loppkuupaev>2023-09-24</Loppkuupaev>
@@ -64,10 +65,10 @@
 		<Transport>autoreis</Transport>
 		<Ekskursioonid>230</Ekskursioonid>
 	</Reis>
-	<Reis reisinimi="Forest City Municipal Airport">
+	<Reis reisinimi="Forest City Municipal Rail Station">
 		<kohad>
-			<Lahtekoht>Suprunovka Airport</Lahtekoht>
-			<Sihtkoht>Forest City Municipal Airport</Sihtkoht>
+			<Lahtekoht>Suprunovka Rail Station</Lahtekoht>
+			<Sihtkoht>Forest City Municipal Rail Station</Sihtkoht>
 		</kohad>
 		<Alguskuupaev>2024-03-25</Alguskuupaev>
 		<Loppkuupaev>2023-12-25</Loppkuupaev>
