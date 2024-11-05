@@ -9,8 +9,8 @@
         <h1>xml ja xslt andmete kuvamine</h1>
         <div>
             <asp:Xml runat="server" 
-                DocumentSource="~/reis.xml"
-                TransformSource="~/reisandmed.xslt"></asp:Xml>
+                DocumentSource="~/ReisWork/reis.xml"
+                TransformSource="~/ReisWork/reisandmed.xslt"></asp:Xml>
         </div>
     </body>
 </html>
