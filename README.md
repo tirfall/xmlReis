@@ -7,3 +7,10 @@
 ![image](https://github.com/user-attachments/assets/62ec699d-2d99-4920-9c4a-d5e511f02f7e)
 ## 3 oma ülesannet (näita ainult lende, mille hind on üle 500)
 ![image](https://github.com/user-attachments/assets/6341555a-26b9-48b0-a3a4-e2a6441bc249)
+
+# reis.xml
+![image](https://github.com/user-attachments/assets/4191e11b-4d6b-419b-a709-bbd353a740ef)
+
+# reis.xsd
+![image](https://github.com/user-attachments/assets/6596fc3c-dfc0-4084-8869-35f3918e1d0a)
+![image](https://github.com/user-attachments/assets/2e343ed3-d427-4f82-aacd-a0d798837dcb)
