@@ -1,0 +1,380 @@
+﻿
+	<Reisid xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="reis.xsd">
+	<Reis reisinimi="Konarak Airport">
+		<kohad>
+			<Lahtekoht>Zapala Airport</Lahtekoht>
+			<Sihtkoht>Konarak Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2023-10-12</Alguskuupaev>
+		<Loppkuupaev>2024-06-06</Loppkuupaev>
+		<Hind>968,56</Hind>
+		<Kohad>147</Kohad>
+		<Aegalgus>1:19</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>250</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Satna Airport">
+		<kohad>
+			<Lahtekoht>Nouakchott–Oumtounsy International Airport</Lahtekoht>
+			<Sihtkoht>Satna Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-07-11</Alguskuupaev>
+		<Loppkuupaev>2024-07-07</Loppkuupaev>
+		<Hind>39,72</Hind>
+		<Kohad>44</Kohad>
+		<Aegalgus>0:12</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>150</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Penn Valley Airport">
+		<kohad>
+			<Lahtekoht>Katiola Airport</Lahtekoht>
+			<Sihtkoht>Penn Valley Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-03-14</Alguskuupaev>
+		<Loppkuupaev>2024-03-24</Loppkuupaev>
+		<Hind>731,53</Hind>
+		<Kohad>175</Kohad>
+		<Aegalgus>2:24</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>120</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Grand Coulee Dam Airport">
+		<kohad>
+			<Lahtekoht>Dorunda Airport</Lahtekoht>
+			<Sihtkoht>Grand Coulee Dam Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-05-09</Alguskuupaev>
+		<Loppkuupaev>2024-05-11</Loppkuupaev>
+		<Hind>581,12</Hind>
+		<Kohad>270</Kohad>
+		<Aegalgus>2:24</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>95</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Taliabu Island">
+		<kohad>
+			<Lahtekoht>Collie</Lahtekoht>
+			<Sihtkoht>Taliabu Island</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2023-12-21</Alguskuupaev>
+		<Loppkuupaev>2023-09-24</Loppkuupaev>
+		<Hind>494,61</Hind>
+		<Kohad>227</Kohad>
+		<Aegalgus>1:02</Aegalgus>
+		<Transport>autoreis</Transport>
+		<Ekskursioonid>230</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Forest City Municipal Rail Station">
+		<kohad>
+			<Lahtekoht>Suprunovka Rail Station</Lahtekoht>
+			<Sihtkoht>Forest City Municipal Rail Station</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-03-25</Alguskuupaev>
+		<Loppkuupaev>2023-12-25</Loppkuupaev>
+		<Hind>196,90</Hind>
+		<Kohad>164</Kohad>
+		<Aegalgus>0:27</Aegalgus>
+		<Transport>rongreis</Transport>
+		<Ekskursioonid>180</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Marawaka Airport">
+		<kohad>
+			<Lahtekoht>Gwinnett County Briscoe Field</Lahtekoht>
+			<Sihtkoht>Marawaka Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-03-20</Alguskuupaev>
+		<Loppkuupaev>2024-08-19</Loppkuupaev>
+		<Hind>635,60</Hind>
+		<Kohad>200</Kohad>
+		<Aegalgus>14:28</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>270</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Eunice Airport">
+		<kohad>
+			<Lahtekoht>Ørsta-Volda Airport, Hovden</Lahtekoht>
+			<Sihtkoht>Eunice Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2023-10-02</Alguskuupaev>
+		<Loppkuupaev>2023-12-16</Loppkuupaev>
+		<Hind>86,73</Hind>
+		<Kohad>109</Kohad>
+		<Aegalgus>1:54</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>50</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Akwa Ibom International Airport">
+		<kohad>
+			<Lahtekoht>Sissano Airport</Lahtekoht>
+			<Sihtkoht>Akwa Ibom International Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-08-01</Alguskuupaev>
+		<Loppkuupaev>2024-01-20</Loppkuupaev>
+		<Hind>25,60</Hind>
+		<Kohad>178</Kohad>
+		<Aegalgus>14:24</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>200</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Burg Feuerstein Airport">
+		<kohad>
+			<Lahtekoht>Qinhuangdao Beidaihe Airport</Lahtekoht>
+			<Sihtkoht>Burg Feuerstein Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2023-09-24</Alguskuupaev>
+		<Loppkuupaev>2024-01-19</Loppkuupaev>
+		<Hind>906,91</Hind>
+		<Kohad>238</Kohad>
+		<Aegalgus>7:33</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>300</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Waterfall Seaplane Base">
+		<kohad>
+			<Lahtekoht>Chichen Itza International Airport</Lahtekoht>
+			<Sihtkoht>Waterfall Seaplane Base</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2023-09-16</Alguskuupaev>
+		<Loppkuupaev>2024-01-26</Loppkuupaev>
+		<Hind>127,46</Hind>
+		<Kohad>97</Kohad>
+		<Aegalgus>16:32</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>15</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Rampart Airport">
+		<kohad>
+			<Lahtekoht>Sucua Airport</Lahtekoht>
+			<Sihtkoht>Rampart Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2023-12-31</Alguskuupaev>
+		<Loppkuupaev>2024-08-20</Loppkuupaev>
+		<Hind>637,39</Hind>
+		<Kohad>247</Kohad>
+		<Aegalgus>6:18</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>175</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Maubeuge-Élesmes Airport">
+		<kohad>
+			<Lahtekoht>Long Island Mac Arthur Airport</Lahtekoht>
+			<Sihtkoht>Maubeuge-Élesmes Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2023-11-20</Alguskuupaev>
+		<Loppkuupaev>2024-01-26</Loppkuupaev>
+		<Hind>235,95</Hind>
+		<Kohad>121</Kohad>
+		<Aegalgus>23:53</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>180</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Dubois Municipal Airport">
+		<kohad>
+			<Lahtekoht>Nottingham Airport</Lahtekoht>
+			<Sihtkoht>Dubois Municipal Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-02-01</Alguskuupaev>
+		<Loppkuupaev>2023-12-16</Loppkuupaev>
+		<Hind>253,60</Hind>
+		<Kohad>69</Kohad>
+		<Aegalgus>11:20</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>150</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Giyani Airport">
+		<kohad>
+			<Lahtekoht>Habi Airport</Lahtekoht>
+			<Sihtkoht>Giyani Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-01-27</Alguskuupaev>
+		<Loppkuupaev>2024-02-15</Loppkuupaev>
+		<Hind>12,28</Hind>
+		<Kohad>148</Kohad>
+		<Aegalgus>23:35</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>100</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Kaikoura Airport">
+		<kohad>
+			<Lahtekoht>Monterrey Airport</Lahtekoht>
+			<Sihtkoht>Kaikoura Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-03-01</Alguskuupaev>
+		<Loppkuupaev>2023-12-13</Loppkuupaev>
+		<Hind>359,10</Hind>
+		<Kohad>119</Kohad>
+		<Aegalgus>7:49</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>75</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Truth Or Consequences Municipal Airport">
+		<kohad>
+			<Lahtekoht>Juan H White Airport</Lahtekoht>
+			<Sihtkoht>Truth Or Consequences Municipal Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-09-11</Alguskuupaev>
+		<Loppkuupaev>2024-01-20</Loppkuupaev>
+		<Hind>199,29</Hind>
+		<Kohad>33</Kohad>
+		<Aegalgus>23:34</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>120</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Balcanoona Airport">
+		<kohad>
+			<Lahtekoht>Raleigh Durham International Airport</Lahtekoht>
+			<Sihtkoht>Balcanoona Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-05-22</Alguskuupaev>
+		<Loppkuupaev>2023-11-14</Loppkuupaev>
+		<Hind>36,00</Hind>
+		<Kohad>272</Kohad>
+		<Aegalgus>18:09</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>150</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Sepik Plains Airport">
+		<kohad>
+			<Lahtekoht>Anacortes Airport</Lahtekoht>
+			<Sihtkoht>Sepik Plains Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-03-08</Alguskuupaev>
+		<Loppkuupaev>2024-06-11</Loppkuupaev>
+		<Hind>466,43</Hind>
+		<Kohad>166</Kohad>
+		<Aegalgus>12:15</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>200</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Monroe Regional Airport">
+		<kohad>
+			<Lahtekoht>Wilkes Barre Wyoming Valley Airport</Lahtekoht>
+			<Sihtkoht>Monroe Regional Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-05-01</Alguskuupaev>
+		<Loppkuupaev>2023-12-22</Loppkuupaev>
+		<Hind>106,33</Hind>
+		<Kohad>146</Kohad>
+		<Aegalgus>4:24</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>90</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Tulum Naval Air Station">
+		<kohad>
+			<Lahtekoht>Gabbs Airport</Lahtekoht>
+			<Sihtkoht>Tulum Naval Air Station</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-05-29</Alguskuupaev>
+		<Loppkuupaev>2024-08-26</Loppkuupaev>
+		<Hind>804,83</Hind>
+		<Kohad>232</Kohad>
+		<Aegalgus>9:20</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>300</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Pattani Airport">
+		<kohad>
+			<Lahtekoht>Dabo Airport</Lahtekoht>
+			<Sihtkoht>Pattani Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2023-10-19</Alguskuupaev>
+		<Loppkuupaev>2024-05-06</Loppkuupaev>
+		<Hind>399,76</Hind>
+		<Kohad>101</Kohad>
+		<Aegalgus>19:53</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>120</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Hawkins Field">
+		<kohad>
+			<Lahtekoht>Capitán Av. Juan Cochamanidis S. Airport</Lahtekoht>
+			<Sihtkoht>Hawkins Field</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-05-20</Alguskuupaev>
+		<Loppkuupaev>2024-04-30</Loppkuupaev>
+		<Hind>586,71</Hind>
+		<Kohad>70</Kohad>
+		<Aegalgus>23:36</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>250</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Rizhao Shanzihe Airport">
+		<kohad>
+			<Lahtekoht>Zabré Airport</Lahtekoht>
+			<Sihtkoht>Rizhao Shanzihe Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-04-16</Alguskuupaev>
+		<Loppkuupaev>2024-01-06</Loppkuupaev>
+		<Hind>655,95</Hind>
+		<Kohad>51</Kohad>
+		<Aegalgus>6:19</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>130</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Nicaro Airport">
+		<kohad>
+			<Lahtekoht>Vinnytsia/Gavyryshivka Airport</Lahtekoht>
+			<Sihtkoht>Nicaro Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-04-16</Alguskuupaev>
+		<Loppkuupaev>2024-04-07</Loppkuupaev>
+		<Hind>109,84</Hind>
+		<Kohad>138</Kohad>
+		<Aegalgus>3:41</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>70</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="General Urquiza Airport">
+		<kohad>
+			<Lahtekoht>Udorn Air Base</Lahtekoht>
+			<Sihtkoht>General Urquiza Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2023-09-20</Alguskuupaev>
+		<Loppkuupaev>2023-11-18</Loppkuupaev>
+		<Hind>155,44</Hind>
+		<Kohad>123</Kohad>
+		<Aegalgus>13:13</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>90</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Lifou Airport">
+		<kohad>
+			<Lahtekoht>Koumac Airport</Lahtekoht>
+			<Sihtkoht>Lifou Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-04-12</Alguskuupaev>
+		<Loppkuupaev>2024-04-22</Loppkuupaev>
+		<Hind>409,75</Hind>
+		<Kohad>98</Kohad>
+		<Aegalgus>15:27</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>110</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Lancang Jingmai Airport">
+		<kohad>
+			<Lahtekoht>Natashquan Airport</Lahtekoht>
+			<Sihtkoht>Lancang Jingmai Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-02-02</Alguskuupaev>
+		<Loppkuupaev>2024-07-30</Loppkuupaev>
+		<Hind>155,86</Hind>
+		<Kohad>184</Kohad>
+		<Aegalgus>0:39</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>130</Ekskursioonid>
+	</Reis>
+	<Reis reisinimi="Reykhólar Airport">
+		<kohad>
+			<Lahtekoht>Choiseul Bay Airport</Lahtekoht>
+			<Sihtkoht>Reykhólar Airport</Sihtkoht>
+		</kohad>
+		<Alguskuupaev>2024-05-13</Alguskuupaev>
+		<Loppkuupaev>2023-10-20</Loppkuupaev>
+		<Hind>70,62</Hind>
+		<Kohad>246</Kohad>
+		<Aegalgus>7:42</Aegalgus>
+		<Transport>lennureis</Transport>
+		<Ekskursioonid>60</Ekskursioonid>
+	</Reis>
+</Reisid>
