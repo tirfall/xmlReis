@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace xmlSugupuu
+namespace xmlReis
 {
 
 

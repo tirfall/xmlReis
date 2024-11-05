@@ -4,7 +4,7 @@ using System.Web;
 using System.Web.Routing;
 using Microsoft.AspNet.FriendlyUrls;
 
-namespace xmlSugupuu
+namespace xmlReis
 {
     public static class RouteConfig
     {

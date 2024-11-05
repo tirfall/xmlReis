@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="xmlSugupuu.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="xmlReis.Global" Language="C#" %>

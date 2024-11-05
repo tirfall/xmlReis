@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace xmlSugupuu {
+namespace xmlReis {
     
     
     public partial class Site_Mobile {
